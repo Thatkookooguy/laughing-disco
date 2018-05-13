@@ -1,3 +1,12 @@
+# kibibit - bit cli
+
+### How to install
+
+simply run the following command:
+```shell
+$ npm install @kibibit/bit -g
+```
+
 ## What is kibibit
 
 You can use the [editor on GitHub](https://github.com/Thatkookooguy/laughing-disco/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
